@@ -1,0 +1,1 @@
+this project is all about claassify the flowers species('Iris-setosa' 'Iris-versicolor' 'Iris-virginica'), based on their characterstics (sepal and petal width and length), so we are going to bulid a neural network using tensorflow to classify these flowers.
